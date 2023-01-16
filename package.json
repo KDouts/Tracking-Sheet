@@ -1,0 +1,19 @@
+{
+  "name": "tracking-sheet",
+  "version": "1.0.0",
+  "description": "This app will be able to track specific data form an excel form and be able to add/modify data on a separate page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KDouts/Tracking-Sheet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KDouts/Tracking-Sheet/issues"
+  },
+  "homepage": "https://github.com/KDouts/Tracking-Sheet#readme"
+}
